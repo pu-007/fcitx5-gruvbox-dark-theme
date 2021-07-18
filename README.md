@@ -12,7 +12,7 @@ git clone https://github.com/Pu-gayhub/fcitx5-gruvbox-dark-theme ~/.local/share/
 2. 设置主题色（可选，默认为 aqua）
 
 ```sh
-cd ~/.local/share/fcitx5/themes/fcitx5-gruvbox-dark-theme
+cd ~/.local/share/fcitx5/themes/gruvbox-dark
 ln -sf ./theme-'颜色'.conf theme.conf
 ```
 
