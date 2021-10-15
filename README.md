@@ -6,7 +6,7 @@ fcitx5 gruvbox 主题
 1. git 克隆
 
 ```sh
-git clone https://github.com/Pu-gayhub/fcitx5-gruvbox-dark-theme ~/.local/share/fcitx5/themes/gruvbox-dark --depth=1
+git clone https://github.com/zpyg/fcitx5-gruvbox-dark-theme ~/.local/share/fcitx5/themes/gruvbox-dark --depth=1
 ```
 
 2. 设置主题色（可选，默认为 aqua）
@@ -24,6 +24,10 @@ Theme=gruvbox-dark
 ```
 
 4. 重启 fcitx
+
+## 自定义
+
+你可以在 `theme.py:THEMES` 中定义新的主题, 使用 `gentheme` 生成。
 
 ## 截图
 
